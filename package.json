@@ -1,0 +1,16 @@
+{
+  "name": "pnp-flow",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "flow-bin": "^0.91.0"
+  },
+  "dependencies": {
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0"
+  },
+  "installConfig": {
+    "pnp": true
+  }
+}

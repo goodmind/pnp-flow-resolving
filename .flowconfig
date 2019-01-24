@@ -1,0 +1,17 @@
+[ignore]
+
+[include]
+
+[libs]
+
+[lints]
+
+[options]
+module.system=haste
+module.resolver=<PROJECT_ROOT>/pnp.sh
+
+experimental.const_params=true
+esproposal.optional_chaining=enable
+module.use_strict=true
+
+[strict]
